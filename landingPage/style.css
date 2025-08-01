@@ -33,6 +33,12 @@ nav a:hover {
     opacity: 1;
 }
 */
+
+nav{
+    text-align: center !important;
+}
+
+
 #s1 {
     min-height: 100vh;
     background-color: #005380;
